@@ -6,6 +6,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 
 **Your final report should include each of the following:**
+
 **-Player Count**
   
       -Total Number of Players
@@ -27,7 +28,8 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 
 **-Purchasing Analysis (Gender)**
-  **The below each broken by gender**
+
+**The below each broken by gender**
   
       -Purchase Count
       -Average Purchase Price
@@ -36,7 +38,8 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 
 **-Age Demographics**
-  **The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)**
+
+**The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)**
   
       -Purchase Count
       -Average Purchase Price
@@ -45,7 +48,8 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 
 **-Top Spenders**
-  **Identify the the top 5 spenders in the game by total purchase value, then list (in a table):**
+
+**Identify the the top 5 spenders in the game by total purchase value, then list (in a table):**
   
       -SN
       -Purchase Count
@@ -54,7 +58,8 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 
 **-Most Popular Items**
-  **Identify the 5 most popular items by purchase count, then list (in a table):**
+
+**Identify the 5 most popular items by purchase count, then list (in a table):**
     
       -Item ID
       -Item Name
@@ -64,7 +69,8 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 
 **-Most Profitable Items**
-  **Identify the 5 most profitable items by total purchase value, then list (in a table):**
+
+**Identify the 5 most profitable items by total purchase value, then list (in a table):**
     
       -Item ID
       -Item Name
